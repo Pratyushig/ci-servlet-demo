@@ -8,7 +8,7 @@ I have modified my [Dockerfile](./Dockerfile) to support `Multi Stage Build`.
 
 You just need `docker` installed to build entire webapp and also create an executable container image for it.
 
-## Steps
+## Steps regarding the same 
 
 
 1. Use either `cmd` or `powershell` or `bash` terminal and use following commands:
